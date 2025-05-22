@@ -26,7 +26,7 @@ To run this project locally, follow these steps:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/GlitchSadik/alumo.git
+git clone https://github.com/BABA-YAGAX71/alumo.git
 ```
 ### 2. Install dependencies
 
@@ -66,6 +66,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## **Contact**
 
-For any inquiries or questions, feel free to reach out to me via [email or GitHub](https://github.com/GlitchSadik).
+For any inquiries or questions, feel free to reach out to me via [email or GitHub](https://github.com/BABA-YAGAX71).
 
 
